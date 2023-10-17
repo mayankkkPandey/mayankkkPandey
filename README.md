@@ -5,15 +5,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankkkpandey&label=Profile%20views&color=0e75b6&style=flat" alt="mayankkkpandey" /> </p>
 
-- 🔭 I’m currently working on **YouTube Clone**
+- 🔭 I’m currently working on **FULL STACK DEVLOPMENT SKILLS**
 
-- 🌱 I’m currently learning **Asp.net , React Native**
+- 🌱 I’m currently learning **Asp.net , React JS**
 
 - 📫 How to reach me **pandeymayank69589@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/mayankkk_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayankkk_._" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mayank-pandey-9435b11b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="mayank-pandey-9435b11b9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
